@@ -12,7 +12,7 @@ if option == "1":
   os.startfile("Optionrun.py")
 if option == "2":
   import os
-  cmd = input("C:\Windows\System32")
+  cmd = input("Terminal>")
   os.system(cmd)
 if option == "3"
   print("""
